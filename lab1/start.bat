@@ -1,0 +1,1 @@
+java -jar ./out/artifacts/lab1_jar/lab1.jar
